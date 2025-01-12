@@ -1,5 +1,7 @@
 package program
 
 fun main(){
-    println("Hello World")
+    // ? Initialization val or var
+    val name : String
+    var age : Int
 }
